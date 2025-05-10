@@ -1,0 +1,1 @@
+This manuscript accompanies the implementation of the “ML-Ecotox-LCA” project and has not been peer-reviewed. It serves as a detailed technical report outlining the methodology and results of the developed machine learning pipeline.
