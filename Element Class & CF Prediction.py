@@ -1,3 +1,5 @@
+# The following code implements an integrated approach for predicting the classes of inorganic elements, followed by estimating their precise CF ΕCOTOX values. The results are compiled into an Excel file named "Predicted_CF_values.xlsx," ensuring a structured and clear presentation of the CF value predictions.
+
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
